@@ -29,8 +29,8 @@
 | Repository | Focus & Architecture | Status |
 | :--- | :--- | :--- |
 | **[nomadic](https://github.com/snipy09/nomadic)** | **Universal Career OS**<br/>• React 18, Supabase RLS, Electron Desktop App<br/>• OmniForm DOM Solver with prototype setters (&gt;95% accuracy)<br/>• Sub-30ms client query state pagination & tier enforcement | `PRODUCTION ALPHA` |
-| **[dcuboid-crm](https://github.com/snipy09/dcuboid)** | **Enterprise Sales & Operations Cockpit**<br/>• Minimalist 3-column operational cockpit & dark telemetry<br/>• High-efficiency pipeline tracking & low-latency deal dispatch | `ACTIVE DEPLOY` |
-| **automation-harnesses** | **Deep DOM Perception Loops**<br/>• Specialized multi-pass automation for Ashby, Greenhouse, Lever<br/>• Resilient client-side pagination & CDP session hooks | `ONLINE` |
+| **omniform-engine** | **Autonomous Form Solver & Perception Loop**<br/>• Multi-pass React 18 prototype setter injection & deep DOM arbitration<br/>• Specialized automation for Ashby, Greenhouse, Lever, Internshala | `ONLINE` |
+| **automation-harnesses** | **High-Throughput Scrapers & Toolchain**<br/>• Resilient background scrapers, CDP browser hooks, desktop packaging<br/>• Low-latency cache normalization & deterministic pipelines | `CONTINUOUS` |
 
 <br/>
 
