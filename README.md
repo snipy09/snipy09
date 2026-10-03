@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- BENTO GRID HERO -->
+<!-- BENTO GRID ARCHITECTURE HERO -->
 <img src="./assets/bento.svg" alt="Sajal Kumar Mishra // Systems Architect Bento Grid" width="100%" />
 
 <br/><br/>
@@ -27,9 +27,9 @@
 
 <br/>
 
-<a href="mailto:sajalmishra0906@gmail.com"><img src="https://img.shields.io/badge/EMAIL-sajalmishra0906%40gmail.com-09090b?style=for-the-badge&logo=gmail&logoColor=bae2fd&labelColor=09090b&color=1e293b" alt="Email" /></a>
-<a href="https://nomadicai.vercel.app"><img src="https://img.shields.io/badge/LIVE_APP-NOMADIC_OS-09090b?style=for-the-badge&logo=vercel&logoColor=bae2fd&labelColor=09090b&color=0284c7" alt="Nomadic" /></a>
-<a href="https://github.com/snipy09"><img src="https://img.shields.io/badge/GITHUB-snipy09-09090b?style=for-the-badge&logo=github&logoColor=bae2fd&labelColor=09090b&color=1e293b" alt="GitHub" /></a>
+<a href="mailto:sajalmishra0906@gmail.com"><img src="https://img.shields.io/badge/EMAIL-sajalmishra0906%40gmail.com-09090b?style=flat-square&logo=gmail&logoColor=bae2fd&labelColor=09090b&color=1e293b" alt="Email" /></a>
+<a href="https://nomadicai.vercel.app"><img src="https://img.shields.io/badge/LIVE_APP-NOMADIC_OS-09090b?style=flat-square&logo=vercel&logoColor=bae2fd&labelColor=09090b&color=0284c7" alt="Nomadic" /></a>
+<a href="https://github.com/snipy09"><img src="https://img.shields.io/badge/GITHUB-snipy09-09090b?style=flat-square&logo=github&logoColor=bae2fd&labelColor=09090b&color=1e293b" alt="GitHub" /></a>
 
 <br/><br/>
 

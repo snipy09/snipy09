@@ -1,48 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 180" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 160" width="100%" height="100%">
   <defs>
-    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#08090d" />
+    <linearGradient id="termDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090b" />
       <stop offset="100%" stop-color="#050608" />
     </linearGradient>
   </defs>
 
   <style>
-    @keyframes cursorBlink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
-    @keyframes lineFade1 { 0% { opacity: 0; } 10%, 100% { opacity: 1; } }
-    @keyframes lineFade2 { 0%, 20% { opacity: 0; } 30%, 100% { opacity: 1; } }
-    @keyframes lineFade3 { 0%, 50% { opacity: 0; } 60%, 100% { opacity: 1; } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    @keyframes line1 { 0% { opacity: 0; } 15%, 100% { opacity: 1; } }
+    @keyframes line2 { 0%, 25% { opacity: 0; } 40%, 100% { opacity: 1; } }
+    @keyframes line3 { 0%, 55% { opacity: 0; } 70%, 100% { opacity: 1; } }
     .mono { font-family: ui-monospace, "SF Mono", "Cascadia Code", "Fira Code", monospace; }
-    .cursor { animation: cursorBlink 0.9s step-end infinite; fill: #38bdf8; }
-    .l-1 { animation: lineFade1 6s infinite; }
-    .l-2 { animation: lineFade2 6s infinite; }
-    .l-3 { animation: lineFade3 6s infinite; }
+    .cursor { animation: blink 0.9s step-end infinite; fill: #38bdf8; }
+    .row-1 { animation: line1 6s infinite; }
+    .row-2 { animation: line2 6s infinite; }
+    .row-3 { animation: line3 6s infinite; }
   </style>
 
   <!-- Frame -->
-  <rect x="0" y="0" width="920" height="180" rx="12" fill="url(#termBg)" stroke="#1e293b" stroke-width="1.2" />
+  <rect x="0" y="0" width="920" height="160" rx="3" fill="url(#termDark)" stroke="#1e293b" stroke-width="1.2" />
 
-  <!-- Top Bar -->
-  <line x1="0" y1="36" x2="920" y2="36" stroke="#1e293b" stroke-width="1" />
-  <circle cx="20" cy="18" r="4" fill="#27272a" />
-  <circle cx="34" cy="18" r="4" fill="#27272a" />
-  <circle cx="48" cy="18" r="4" fill="#27272a" />
+  <!-- Window Bar -->
+  <line x1="0" y1="34" x2="920" y2="34" stroke="#1e293b" stroke-width="1" />
+  <circle cx="18" cy="17" r="3.5" fill="#27272a" />
+  <circle cx="30" cy="17" r="3.5" fill="#27272a" />
+  <circle cx="42" cy="17" r="3.5" fill="#27272a" />
 
-  <text x="460" y="22" text-anchor="middle" class="mono" font-size="11" fill="#64748b">snipy09@workstation: ~/projects (zsh)</text>
+  <text x="460" y="21" text-anchor="middle" class="mono" font-size="11" fill="#64748b">snipy09@workstation: ~/nomadic (zsh)</text>
 
-  <!-- Terminal Output Lines -->
+  <!-- Output Lines -->
   <g class="mono" font-size="11.5">
-    <g class="l-1">
-      <text x="24" y="66" fill="#64748b">snipy09@system:~$ <tspan fill="#bae2fd">bench --product=Nomadic --metric=perception_latency</tspan></text>
-      <text x="24" y="88" fill="#0284c7">» <tspan fill="#e2e8f0">OmniForm React DOM Prototype Setter: &gt;95% accuracy [0x00 OK]</tspan></text>
+    <g class="row-1">
+      <text x="20" y="62" fill="#64748b">snipy09@system:~$ <tspan fill="#bae2fd">bench --target=omniform --metrics</tspan></text>
+      <text x="20" y="82" fill="#0284c7">» <tspan fill="#e2e8f0">Prototype Setter Engine: 98.4% arbitration accuracy | React 18 synchronized</tspan></text>
     </g>
 
-    <g class="l-2">
-      <text x="24" y="116" fill="#64748b">snipy09@system:~$ <tspan fill="#bae2fd">verify --stack=full --security=rls</tspan></text>
-      <text x="24" y="138" fill="#0284c7">» <tspan fill="#e2e8f0">Sub-30ms query caches synchronized | Supabase RLS verified</tspan></text>
+    <g class="row-2">
+      <text x="20" y="108" fill="#64748b">snipy09@system:~$ <tspan fill="#bae2fd">test --latency-budget</tspan></text>
+      <text x="20" y="128" fill="#0284c7">» <tspan fill="#e2e8f0">Sub-30ms client query cache verified | Zero network cascade detected</tspan></text>
     </g>
 
-    <g class="l-3">
-      <text x="24" y="162" fill="#64748b">snipy09@system:~$ <tspan fill="#38bdf8">exec autopilot</tspan><tspan class="cursor"> █</tspan></text>
+    <g class="row-3">
+      <text x="20" y="148" fill="#64748b">snipy09@system:~$ <tspan fill="#38bdf8">exec release --desktop</tspan><tspan class="cursor"> █</tspan></text>
     </g>
   </g>
 </svg>
