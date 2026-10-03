@@ -1,16 +1,24 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="snipy09 System Header" width="100%" />
+<!-- HERO BANNER -->
+<img src="./assets/banner.svg" alt="snipy09 Cyber Terminal Banner" width="100%" />
 
 <br/><br/>
 
+<!-- DYNAMIC TYPING CONSOLE -->
 <a href="https://github.com/snipy09">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=bae2fd&background=09090B00&center=true&vCenter=true&width=750&lines=snipy09%40workstation%3A~%24%20whoami%20--role%3B%3E%20Systems%20Architect%20%26%20Full-Stack%20Builder%3Bsnipy09%40workstation%3A~%24%20launch%20--product%3DNomadic%3B%3E%20Career%20OS%20active%3A%20OmniForm%20DOM%20Solver%20%2B%20AI%20Pilot%20loop%20online%3Bsnipy09%40workstation%3A~%24%20bench%20--latency%3B%3E%20Sub-30ms%20client%20query%20state%20synced%20%7C%2098.4%25%20automation%20precision%3Bsnipy09%40workstation%3A~%24%20status%3B%3E%20Shipping%20deterministic%2C%20high-throughput%20systems%2024/7." alt="Terminal Telemetry" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2600&pause=900&color=bae2fd&background=09090B00&center=true&vCenter=true&width=780&lines=snipy09%40workstation%3A~%24+whoami+--role%3B%3E+Sajal+Kumar+Mishra+%2F%2F+Systems+Architect+%26+Full-Stack+Builder%3Bsnipy09%40workstation%3A~%24+launch+--product%3DNomadic%3B%3E+Career+OS+active%3A+OmniForm+DOM+Solver+%2B+AI+Pilot+loop+online%3Bsnipy09%40workstation%3A~%24+bench+--latency%3B%3E+Sub-30ms+client+query+state+synced+%7C+98.4%25+automation+precision%3Bsnipy09%40workstation%3A~%24+status%3B%3E+Shipping+deterministic%2C+high-throughput+systems+24%2F7." alt="Terminal Telemetry" />
 </a>
 
 <br/>
 
-<img src="./assets/engine.svg" alt="Engine & Capability Telemetry" width="100%" />
+<!-- CAPABILITIES & RADAR -->
+<img src="./assets/capabilities.svg" alt="Capabilities & Radar Telemetry" width="100%" />
+
+<br/><br/>
+
+<!-- TOOLCHAIN MODULES -->
+<img src="./assets/stack.svg" alt="Active Toolchain Modules" width="100%" />
 
 <br/><br/>
 
