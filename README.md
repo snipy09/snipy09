@@ -1,26 +1,40 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="./assets/banner.svg" alt="snipy09 Cyber Terminal Banner" width="100%" />
+<!-- HERO ANIMATED ASCII BANNER -->
+<img src="./assets/header.svg" alt="snipy09 Cyber Terminal Banner" width="100%" />
 
 <br/><br/>
 
-<!-- DYNAMIC TYPING CONSOLE -->
+<!-- DYNAMIC TYPING TELEMETRY -->
 <a href="https://github.com/snipy09">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2600&pause=900&color=bae2fd&background=09090B00&center=true&vCenter=true&width=780&lines=snipy09%40workstation%3A~%24+whoami+--role%3B%3E+Sajal+Kumar+Mishra+%2F%2F+Systems+Architect+%26+Full-Stack+Builder%3Bsnipy09%40workstation%3A~%24+launch+--product%3DNomadic%3B%3E+Career+OS+active%3A+OmniForm+DOM+Solver+%2B+AI+Pilot+loop+online%3Bsnipy09%40workstation%3A~%24+bench+--latency%3B%3E+Sub-30ms+client+query+state+synced+%7C+98.4%25+automation+precision%3Bsnipy09%40workstation%3A~%24+status%3B%3E+Shipping+deterministic%2C+high-throughput+systems+24%2F7." alt="Terminal Telemetry" />
 </a>
 
 <br/>
 
-<!-- CAPABILITIES & RADAR -->
-<img src="./assets/capabilities.svg" alt="Capabilities & Radar Telemetry" width="100%" />
+<!-- SYSTEM VELOCITY & EXECUTION GRAPH -->
+<img src="./assets/graph.svg" alt="System Activity & Execution Velocity Graph" width="100%" />
 
 <br/><br/>
 
-<!-- TOOLCHAIN MODULES -->
+<!-- ACTIVE TOOLCHAIN & RUNTIME MODULES -->
 <img src="./assets/stack.svg" alt="Active Toolchain Modules" width="100%" />
 
-<br/><br/>
+</div>
+
+<br/>
+
+### ─── [ FEATURED_DEPLOYMENTS // REPOSITORIES ] ───
+
+| Repository | Focus & Architecture | Status |
+| :--- | :--- | :--- |
+| **[nomadic](https://github.com/snipy09/nomadic)** | **Universal Career OS**<br/>• React 18, Supabase RLS, Electron Desktop App<br/>• OmniForm DOM Solver with prototype setters (&gt;95% accuracy)<br/>• Sub-30ms client query state pagination & tier enforcement | `PRODUCTION ALPHA` |
+| **[dcuboid-crm](https://github.com/snipy09/dcuboid)** | **Enterprise Sales & Operations Cockpit**<br/>• Minimalist 3-column operational cockpit & dark telemetry<br/>• High-efficiency pipeline tracking & low-latency deal dispatch | `ACTIVE DEPLOY` |
+| **automation-harnesses** | **Deep DOM Perception Loops**<br/>• Specialized multi-pass automation for Ashby, Greenhouse, Lever<br/>• Resilient client-side pagination & CDP session hooks | `ONLINE` |
+
+<br/>
+
+<div align="center">
 
 ### ─── [ SYSTEM_TELEMETRY // GITHUB_METRICS ] ───
 
