@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HERO ANIMATED ASCII BANNER -->
-<img src="./assets/header.svg" alt="snipy09 Cyber Terminal Banner" width="100%" />
+<!-- HERO BANNER -->
+<img src="./assets/header.svg" alt="Sajal Kumar Mishra // Systems Architect" width="100%" />
 
 <br/><br/>
 
@@ -12,13 +12,18 @@
 
 <br/>
 
-<!-- SYSTEM VELOCITY & EXECUTION GRAPH -->
-<img src="./assets/graph.svg" alt="System Activity & Execution Velocity Graph" width="100%" />
+<!-- SYSTEM OVERVIEW & PRODUCT COCKPIT -->
+<img src="./assets/overview.svg" alt="System Overview & Flagship Engine" width="100%" />
 
 <br/><br/>
 
-<!-- ACTIVE TOOLCHAIN & RUNTIME MODULES -->
-<img src="./assets/stack.svg" alt="Active Toolchain Modules" width="100%" />
+<!-- EXECUTION VELOCITY GRAPH -->
+<img src="./assets/graph.svg" alt="Execution Velocity & Milestones" width="100%" />
+
+<br/><br/>
+
+<!-- ACTIVE TOOLCHAIN MODULES -->
+<img src="./assets/stack.svg" alt="Active Toolchain & Runtime Modules" width="100%" />
 
 </div>
 
