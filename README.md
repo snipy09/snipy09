@@ -1,60 +1,118 @@
-﻿<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Sajal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%E2%80%A2%20Tinkerer%20%E2%80%A2%20Lifelong%20learner&descAlignY=58&descSize=20" alt="header" />
+```text
+┌─ ROOT // SYSTEM_INIT ───────────────────────────────────────────────────────┐
+│ snipy09@workstation:~$ init --profile=sajal-mishra --mode=architect        │
+│                                                                            │
+│           ███████╗███╗   ██╗██╗██████╗ ██╗   ██╗ ██████╗  █████╗           │
+│           ██╔════╝████╗  ██║██║██╔══██╗╚██╗ ██╔╝██╔═████╗██╔══██╗          │
+│           ███████╗██╔██╗ ██║██║██████╔╝ ╚████╔╝ ██║██╔██║╚██████║          │
+│           ╚════██║██║╚██╗██║██║██╔═══╝   ╚██╔╝  ████╔╝██║ ╚═══██║          │
+│           ███████║██║ ╚████║██║██║        ██║   ╚██████╔╝ █████╔╝          │
+│           ╚══════╝╚═╝  ╚═══╝╚═╝╚═╝        ╚═╝    ╚═════╝  ╚════╝           │
+│                                                                            │
+│      [ SAJAL KUMAR MISHRA // SYSTEMS ARCHITECT & FULL-STACK BUILDER ]      │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+```text
+┌─ SYS_TELEMETRY // NEOFETCH.SH ──────────────────────────────────────────────┐
+│   .------------.  │ USER      :: Sajal Kumar Mishra (@snipy09)             │
+│   | .--------. |  │ ROLE      :: Systems Architect & Full-Stack Engineer   │
+│   | | >_ dev | |  │ FOCUS     :: High-Throughput Automation & SaaS         │
+│   | | active | |  │ FLAGSHIP  :: Nomadic [Universal Career OS]             │
+│   | '--------' |  │ DOMAINS   :: Full-Stack, DOM Automation, Desktop Apps  │
+│   '------------'  │ UPTIME    :: 24/7 [Shipping resilient code]            │
+│      /      \     │ PALETTE   :: Dark (#09090b) + Powder Blue (#bae2fd)    │
+│     /________\    │ LOCATION  :: India (UTC+05:30)                         │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+```text
+┌─ MODULES_LOADED // TECH_STACK ──────────────────────────────────────────────┐
+│ LANGUAGES   :: TypeScript, JavaScript, Python 3.11, SQL, HTML5/CSS3        │
+│ FRONTEND    :: React 18, Next.js, TailwindCSS, Vite, Zustand, Radix UI     │
+│ BACKEND     :: Node.js, Express, FastAPI, RESTful APIs, WebSockets         │
+│ DESKTOP/APP :: Electron, Windows Authenticode, Chrome DevTools Protocol    │
+│ DATABASE    :: PostgreSQL, Supabase (RLS & Realtime), Redis, Prisma        │
+│ INFRA/TOOLS :: Git/GitHub, Docker, Vercel, Turborepo, Bash, Linux          │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+```text
+┌─ COMPUTE_METRICS // PROFICIENCY_INDEX ──────────────────────────────────────┐
+│ Frontend & UI Systems     [████████████████████░░░░] 85%                   │
+│ Full-Stack & API Design   [██████████████████████░░] 92%                   │
+│ DOM & Form Automation     [████████████████████████] 98%                   │
+│ Desktop & Native Run      [██████████████████░░░░░░] 78%                   │
+│ Database & Schema Design  [████████████████████░░░░] 84%                   │
+│ Deterministic CI/CD       [████████████████████░░░░] 86%                   │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+```text
+┌─ OPERATIONAL_BUILDS // REPOSITORIES ────────────────────────────────────────┐
+│ 01. NOMADIC // Universal Career OS                                         │
+│     ├── Deployment : https://nomadicai.vercel.app                          │
+│     ├── Stack      : React 18, Supabase RLS, Electron Desktop (Signed)     │
+│     ├── Core Engine: OmniForm DOM Solver (>95% accuracy) & AI Pilot        │
+│     └── Features   : Sub-30ms pagination, 428+ Question Bank, Tier sync    │
+│                                                                            │
+│ 02. DCUBOID CRM // Enterprise Sales & Operations Cockpit                   │
+│     ├── Target     : Pipeline telemetry & high-efficiency execution        │
+│     └── Stack      : 3-column cockpit, dark telemetry, low-latency sync    │
+│                                                                            │
+│ 03. HIGH-THROUGHPUT AUTOMATION HARNESSES                                   │
+│     ├── Targets    : Ashby, Greenhouse, Lever, Internshala scrapers        │
+│     └── Mechanics  : Prototype setter injection & CDP session hooks        │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+```text
+┌─ SYSTEM_ARCHITECTURE // CORE_PARADIGMS ─────────────────────────────────────┐
+│ [01] DETERMINISTIC AUTOMATION :: End-to-end perception loops with fallback │
+│                                  arbitration and zero hardcoded fragility. │
+│ [02] RESILIENT CLIENT STATE  :: Sub-30ms query budgets, optimized local    │
+│                                  caching, and instant optimistic UI sync.  │
+│ [03] MONOTONE DESIGN LOGIC   :: High-contrast, zero-noise dark interfaces  │
+│                                  with subtle powder-blue accents only.     │
+│ [04] SYSTEM INTEGRITY        :: Strict RLS policies, Authenticode signing, │
+│                                  and robust server-side tier validation.   │
+└────────────────────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
-<a href="https://github.com/snipy09">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+cool+things+with+code+%E2%9A%A1;Turning+coffee+into+software+%E2%98%95;Always+learning%2C+always+shipping+%F0%9F%9A%80;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
+### ─── [ SYSTEM_TELEMETRY // GITHUB_METRICS ] ───
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=snipy09&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/snipy09?style=for-the-badge&logo=github&color=8b5cf6" alt="followers" />
+<img src="https://github-readme-stats.vercel.app/api?username=snipy09&show_icons=true&theme=transparent&title_color=bae2fd&text_color=e2e8f0&icon_color=0284c7&border_color=1e293b&hide_border=false&count_private=true&include_all_commits=true" alt="Sajal's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipy09&layout=compact&theme=transparent&title_color=bae2fd&text_color=e2e8f0&icon_color=0284c7&border_color=1e293b&hide_border=false" alt="Top Languages" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snipy09&theme=transparent&background=09090B&ring=0284c7&fire=bae2fd&currStreakLabel=bae2fd&stroke=1e293b&dates=94a3b8" alt="GitHub Streak" width="97%" />
 
 </div>
 
----
+```text
+┌─ COMM_CHANNELS // CONNECT ──────────────────────────────────────────────────┐
+│ PING PROTOCOLS ::                                                          │
+│   EMAIL    -> sajalmishra0906@gmail.com                                    │
+│   GITHUB   -> https://github.com/snipy09                                   │
+│   LINKEDIN -> https://linkedin.com/in/sajal-mishra                         │
+│   LIVE APP -> https://nomadicai.vercel.app                                 │
+│                                                                            │
+│ TERMINAL INVOCATIONS ::                                                    │
+│   $ git clone https://github.com/snipy09/<repository>.git                  │
+│   $ curl -sL https://api.github.com/users/snipy09 | jq '.public_repos'     │
+└────────────────────────────────────────────────────────────────────────────┘
+```
 
-## 👾 About Me
-
-- 🌟 **[Nomadic](https://github.com/snipy09/nomadic)** - a universal Career OS
-- 🧭 **[DCuboid CRM](https://github.com/snipy09/dcuboid)** - a clean navigation system
-- 🎨 Design taste: monotone with subtle powder blue accents
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,html,css,tailwind,git,github,docker,postgres,supabase,vscode&perline=8" alt="skills" />
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=snipy09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipy09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snipy09&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=snipy09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
-
-</div>
-
-## 📫 Connect
-
-<div align="center">
-
-<a href="https://github.com/snipy09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
-
+```text
+┌─ PROCESS_TERMINATION // EXIT 0 ─────────────────────────────────────────────┐
+│ Status  :: Process completed with exit code 0x00 [OK]                      │
+│ Session :: snipy09-core @ workstation [active]                             │
+│ Keymap  :: [Ctrl+C] to interrupt | [Enter] to execute                      │
+│ Hash    :: 0x8F3C...A4B1                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+```
