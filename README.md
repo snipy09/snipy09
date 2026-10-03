@@ -1,17 +1,20 @@
-```text
-┌─ ROOT // SYSTEM_INIT ───────────────────────────────────────────────────────┐
-│ snipy09@workstation:~$ init --profile=sajal-mishra --mode=architect        │
-│                                                                            │
-│           ███████╗███╗   ██╗██╗██████╗ ██╗   ██╗ ██████╗  █████╗           │
-│           ██╔════╝████╗  ██║██║██╔══██╗╚██╗ ██╔╝██╔═████╗██╔══██╗          │
-│           ███████╗██╔██╗ ██║██║██████╔╝ ╚████╔╝ ██║██╔██║╚██████║          │
-│           ╚════██║██║╚██╗██║██║██╔═══╝   ╚██╔╝  ████╔╝██║ ╚═══██║          │
-│           ███████║██║ ╚████║██║██║        ██║   ╚██████╔╝ █████╔╝          │
-│           ╚══════╝╚═╝  ╚═══╝╚═╝╚═╝        ╚═╝    ╚═════╝  ╚════╝           │
-│                                                                            │
-│      [ SAJAL KUMAR MISHRA // SYSTEMS ARCHITECT & FULL-STACK BUILDER ]      │
-└────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="./assets/header.svg" alt="snipy09 Terminal Banner" width="100%" />
+
+<br/><br/>
+
+<a href="https://github.com/snipy09">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=bae2fd&background=09090B00&center=true&vCenter=true&width=750&lines=snipy09%40workstation%3A~%24%20whoami%20--verbose%3B%3E%20Sajal%20Kumar%20Mishra%20//%20Systems%20%26%20Full-Stack%20Architect%3Bsnipy09%40workstation%3A~%24%20launch%20--product%3DNomadic%3B%3E%20Career%20OS%20online%3A%20OmniForm%20DOM%20Solver%20%2B%20AI%20Pilot%20active%3Bsnipy09%40workstation%3A~%24%20run%20--telemetry%3B%3E%20Sub-30ms%20query%20latency%20%7C%2098.4%25%20DOM%20automation%20accuracy%3Bsnipy09%40workstation%3A~%24%20status%3B%3E%20Shipping%20deterministic%2C%20zero-noise%20engineering%2024/7." alt="Terminal Typing Telemetry" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=snipy09&label=PROFILE%20VIEWS&color=0284c7&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/snipy09?style=for-the-badge&logo=github&label=FOLLOWERS&color=0284c7" alt="followers" />
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-0284c7?style=for-the-badge" alt="status" />
+
+</div>
 
 ```text
 ┌─ SYS_TELEMETRY // NEOFETCH.SH ──────────────────────────────────────────────┐
