@@ -1,42 +1,68 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img src="./assets/header-light.svg" alt="Sajal Kumar Mishra — AI products, quant systems, automation" width="100%" />
+</picture>
 
-<!-- BENTO GRID ARCHITECTURE HERO -->
-<img src="./assets/bento.svg" alt="Sajal Kumar Mishra // Systems Architect Bento Grid" width="100%" />
+<p>
+  <a href="https://nomadicai.vercel.app"><img src="https://img.shields.io/badge/Building-Nomadic-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="Building Nomadic" /></a>
+  <a href="https://snipy09.github.io"><img src="https://img.shields.io/badge/Portfolio-snipy09.github.io-0f172a?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:sajalmishra0906@gmail.com"><img src="https://img.shields.io/badge/Email-sajalmishra0906%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<br/><br/>
+Engineer from India working across three areas: **AI products**, **quantitative finance tooling**, and **automation**. I care about shipping working software with real users, not demos.
 
-<!-- ANIMATED TERMINAL TELEMETRY -->
-<img src="./assets/terminal.svg" alt="snipy09 Terminal Telemetry" width="100%" />
+## Now building — [Nomadic](https://nomadicai.vercel.app)
 
-<br/><br/>
+A desktop app that takes Indian engineering students from learning to hired:
 
-### ─── [ SYSTEM_TELEMETRY // GITHUB_METRICS ] ───
+- **Learn** — role-based roadmap, spaced-repetition reviews, daily queue
+- **Practice** — ~1,800 company interview problems, timed mocks, AI feedback
+- **Job board** — openings matched to your skills, with the gaps you need to close
+- **Apply with review** — fills real application forms, submits only after you check every field
+- **Track** — every application in one kanban, synced to your account
 
-<br/>
+`Electron` · `React` · `TypeScript` · `Supabase` · `Playwright` · monorepo with its own design system, form engine and job-scraping pipeline
 
-<img src="https://github-readme-stats.vercel.app/api?username=snipy09&show_icons=true&theme=transparent&title_color=bae2fd&text_color=cbd5e1&icon_color=0284c7&border_color=1e293b&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipy09&layout=compact&theme=transparent&title_color=bae2fd&text_color=cbd5e1&icon_color=0284c7&border_color=1e293b&hide_border=false" alt="Top Languages" width="48%" />
+## Selected work
 
-<br/>
+**Quant & finance**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snipy09&theme=transparent&background=09090B&ring=0284c7&fire=bae2fd&currStreakLabel=bae2fd&stroke=1e293b&dates=94a3b8" alt="GitHub Streak" width="97%" />
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [regime-shift-early-warning](https://github.com/snipy09/regime-shift-early-warning) | Flags market regime shifts early using rolling SVD + Hidden Markov Models, evaluated against real drawdowns | Python · hmmlearn · Streamlit |
+| [monte-carlo-portfolio-optimizer](https://github.com/snipy09/monte-carlo-portfolio-optimizer) | 10k+ vectorised simulations + Markowitz (SLSQP) on Ledoit-Wolf covariance; Sharpe, Sortino, VaR, CVaR | Python · NumPy · SciPy · Plotly |
+| [ohlcv-data-pipeline](https://github.com/snipy09/ohlcv-data-pipeline) | Fetches, validates, cleans and quality-scores market data; handles splits and dividends; CSV + SQLite out | Python · pandas · SQLite |
 
-<br/><br/>
+**AI & web products**
 
-### ─── [ COMM_CHANNELS // CONNECT ] ───
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [subreddit-vibe-check](https://github.com/snipy09/subreddit-vibe-check) | Sentiment and "vibe" analytics for any subreddit's top 50 posts — [live](https://subreddit-vibe-check-pi.vercel.app) | Next.js · TypeScript |
+| [ads-insights-dashboard](https://github.com/snipy09/ads-insights-dashboard) | Meta Ads + Google Ads in one dashboard with Claude-generated performance insights | Next.js · Claude API · Recharts |
+| [pulseflow-website](https://github.com/snipy09/pulseflow-website) | Statically exported B2B SaaS marketing site — [live](https://as1-two.vercel.app) | Next.js 15 · Framer Motion |
+| [dental-clinic-website](https://github.com/snipy09/dental-clinic-website) | Conversion-focused website for a real dental clinic | React · Vite |
 
-<br/>
+**Automation**
 
-<a href="mailto:sajalmishra0906@gmail.com"><img src="https://img.shields.io/badge/EMAIL-sajalmishra0906%40gmail.com-09090b?style=flat-square&logo=gmail&logoColor=bae2fd&labelColor=09090b&color=1e293b" alt="Email" /></a>
-<a href="https://nomadicai.vercel.app"><img src="https://img.shields.io/badge/LIVE_APP-NOMADIC_OS-09090b?style=flat-square&logo=vercel&logoColor=bae2fd&labelColor=09090b&color=0284c7" alt="Nomadic" /></a>
-<a href="https://github.com/snipy09"><img src="https://img.shields.io/badge/GITHUB-snipy09-09090b?style=flat-square&logo=github&logoColor=bae2fd&labelColor=09090b&color=1e293b" alt="GitHub" /></a>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [telegram-job-bot](https://github.com/snipy09/telegram-job-bot) | Aggregates remote/tech jobs from 4 sources, keyword alerts, bookmarks; Docker + GCP deploy | Python · Docker |
+| [flashjob-marketing-bot](https://github.com/snipy09/flashjob-marketing-bot) | Generates and schedules community posts across Reddit, X and Discord | Python · Playwright |
+| [instagram-autopilot](https://github.com/snipy09/instagram-autopilot) | AI-written comments and DM replies with rate limits and a local dashboard | TypeScript · Playwright |
 
-<br/><br/>
+## Toolbox
 
-```text
-[PROCESS COMPLETED // EXIT 0x00] ──────────────────────────────────────────────
-Session :: snipy09-core @ workstation [active] | 24/7 continuous ops
-──────────────────────────────────────────────────────────────────────────────
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,electron,nodejs,tailwind,vite,threejs,supabase,postgres,sqlite,docker,gcp,vercel,git,linux&perline=9" alt="Python, TypeScript, JavaScript, React, Next.js, Electron, Node.js, Tailwind, Vite, Three.js, Supabase, Postgres, SQLite, Docker, GCP, Vercel, Git, Linux" />
+</p>
 
-</div>
+Also: NumPy · pandas · SciPy · scikit-learn · Streamlit · Plotly · Playwright · Claude / OpenAI APIs
+
+## Community
+
+Contributor with [GitHub Community GITAM](https://github.com/github-community-gitam) — workshops, hackathons (EPOCH) and starter labs on MCP and agentic RAG.
+
+---
+
+<sub>Open to internships, freelance builds and collaborations — email is the fastest way to reach me.</sub>
