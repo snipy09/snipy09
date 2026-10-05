@@ -31,7 +31,7 @@ A desktop app that takes Indian engineering students from learning to hired:
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [regime-shift-early-warning](https://github.com/snipy09/regime-shift-early-warning) | Flags market regime shifts early using rolling SVD + Hidden Markov Models, evaluated against real drawdowns | Python · hmmlearn · Streamlit |
-| [monte-carlo-portfolio-optimizer](https://github.com/snipy09/monte-carlo-portfolio-optimizer) | 10k+ vectorised simulations + Markowitz (SLSQP) on Ledoit-Wolf covariance; Sharpe, Sortino, VaR, CVaR | Python · NumPy · SciPy · Plotly |
+| [monte-carlo-portfolio-optimizer](https://github.com/snipy09/Monte-carlo-simulation-for-portfolio-optimization) | 10k+ vectorised simulations + Markowitz (SLSQP) on Ledoit-Wolf covariance; Sharpe, Sortino, VaR, CVaR — [live](https://mcs-portfolio-optimizer.vercel.app) | Python · NumPy · SciPy · Plotly |
 | [ohlcv-data-pipeline](https://github.com/snipy09/ohlcv-data-pipeline) | Fetches, validates, cleans and quality-scores market data; handles splits and dividends; CSV + SQLite out | Python · pandas · SQLite |
 
 **AI & web products**
