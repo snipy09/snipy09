@@ -30,18 +30,18 @@ A desktop app that takes Indian engineering students from learning to hired:
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [regime-shift-early-warning](https://github.com/snipy09/regime-shift-early-warning) | Flags market regime shifts early using rolling SVD + Hidden Markov Models, evaluated against real drawdowns | Python · hmmlearn · Streamlit |
+| [RSEW (Regime Shift Early Warning)](https://github.com/snipy09/RSEW) | Flags market regime shifts early using rolling SVD + Hidden Markov Models, evaluated against real drawdowns | Python · hmmlearn · Streamlit |
 | [monte-carlo-portfolio-optimizer](https://github.com/snipy09/Monte-carlo-simulation-for-portfolio-optimization) | 10k+ vectorised simulations + Markowitz (SLSQP) on Ledoit-Wolf covariance; Sharpe, Sortino, VaR, CVaR — [live](https://mcs-portfolio-optimizer.vercel.app) | Python · NumPy · SciPy · Plotly |
-| [ohlcv-data-pipeline](https://github.com/snipy09/ohlcv-data-pipeline) | Fetches, validates, cleans and quality-scores market data; handles splits and dividends; CSV + SQLite out | Python · pandas · SQLite |
+| [OHLCV Pipeline](https://github.com/snipy09/OHLCV) | Fetches, validates, cleans and quality-scores market data; handles splits and dividends; CSV + SQLite out | Python · pandas · SQLite |
 
 **AI & web products**
 
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [subreddit-vibe-check](https://github.com/snipy09/subreddit-vibe-check) | Sentiment and "vibe" analytics for any subreddit's top 50 posts — [live](https://subreddit-vibe-check-pi.vercel.app) | Next.js · TypeScript |
-| [ads-insights-dashboard](https://github.com/snipy09/ads-insights-dashboard) | Meta Ads + Google Ads in one dashboard with Claude-generated performance insights | Next.js · Claude API · Recharts |
-| [pulseflow-website](https://github.com/snipy09/pulseflow-website) | Statically exported B2B SaaS marketing site — [live](https://as1-two.vercel.app) | Next.js 15 · Framer Motion |
-| [dental-clinic-website](https://github.com/snipy09/dental-clinic-website) | Conversion-focused website for a real dental clinic | React · Vite |
+| [ads-insights-dashboard](https://github.com/snipy09/Meta-google-ads-integrated-dashboard) | Meta Ads + Google Ads in one dashboard with Claude-generated performance insights | Next.js · Claude API · Recharts |
+| [pulseflow-website](https://github.com/snipy09/As1) | Statically exported B2B SaaS marketing site — [live](https://as1-two.vercel.app) | Next.js 15 · Framer Motion |
+| [dental-clinic-website](https://github.com/snipy09/dentist-clinic-website) | Conversion-focused website for a real dental clinic | React · Vite |
 
 **Automation**
 
@@ -49,7 +49,7 @@ A desktop app that takes Indian engineering students from learning to hired:
 | --- | --- | --- |
 | [telegram-job-bot](https://github.com/snipy09/telegram-job-bot) | Aggregates remote/tech jobs from 4 sources, keyword alerts, bookmarks; Docker + GCP deploy | Python · Docker |
 | [flashjob-marketing-bot](https://github.com/snipy09/flashjob-marketing-bot) | Generates and schedules community posts across Reddit, X and Discord | Python · Playwright |
-| [instagram-autopilot](https://github.com/snipy09/instagram-autopilot) | AI-written comments and DM replies with rate limits and a local dashboard | TypeScript · Playwright |
+| [instagram-automation](https://github.com/snipy09/instagram-automation) | AI-written comments and DM replies with rate limits and a local dashboard | TypeScript · Playwright |
 
 ## Toolbox
 
