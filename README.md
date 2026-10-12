@@ -48,6 +48,7 @@ A desktop app that takes Indian engineering students from learning to hired:
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [telegram-job-bot](https://github.com/snipy09/telegram-job-bot) | Aggregates remote/tech jobs from 4 sources, keyword alerts, bookmarks; Docker + GCP deploy | Python · Docker |
+| [github-achievements](https://github.com/snipy09/github-achievements) | Automated verification engine and badge tracker for GitHub profile achievements with category statistics | Python · CLI |
 | [flashjob-marketing-bot](https://github.com/snipy09/flashjob-marketing-bot) | Generates and schedules community posts across Reddit, X and Discord | Python · Playwright |
 | [instagram-automation](https://github.com/snipy09/instagram-automation) | AI-written comments and DM replies with rate limits and a local dashboard | TypeScript · Playwright |
 
